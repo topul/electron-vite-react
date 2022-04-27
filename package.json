@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "main": "app/index.js",
-  "description": "a app for multiple wa",
+  "description": "a app for electron vite react",
   "license": "MIT",
   "scripts": {
     "start": "npm run build && npm run electron:start",
